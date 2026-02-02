@@ -1,0 +1,120 @@
+[
+    {
+        "name":"Fitopie",
+        "price":2500,
+        "image":"/image/dress1.jpg",
+        "description":"Latest smartphones",
+        "stock":30
+    },
+    {
+        "name":"Redtopie",
+        "price":2500,
+        "image":"/image/dress2.jpg",
+        "description":"Latest smartphones",
+        "stock":30
+    },
+    {
+        "name":"Pint suit",
+        "price":2500,
+        "image":"/image/dress3.jpg",
+        "description":"Latest smartphones",
+        "stock":30
+    },
+    {
+        "name":"Full top",
+        "price":5000,
+        "image":"/image/dress4.jpg",
+        "description":"Latest smartphones",
+        "stock":30
+    },
+    {
+        "name":"Top",
+        "price": 2500,
+        "image":"/image/dress5.jpg",
+        "description":"Latest Model",
+        "stock":30
+
+    },
+    {
+        "name" :"Suit",
+        "price":5000,
+        "image":"/image/dress6.jpg",
+        "description":"Latest Model",
+        "stock":30
+    },
+    {
+        "name":"Smart frock",
+        "price":2500,
+        "image":"/image/dress7.jpg",
+        "description":"Latest smartphones",
+        "stock":30
+    },
+    {
+        "name":"Redgown",
+        "price":25000,
+        "image":"/image/dress8.jpg",
+        "description":"Latest smartphones",
+        "stock":30
+    },
+    {
+        "name":"Sidecut",
+        "price":25500,
+        "image":"/image/dress9.jpg",
+        "description":"Latest smartphones",
+        "stock":30
+    },
+    {
+        "name":"Frock",
+        "price":5000,
+        "image":"/image/dress10.jpg",
+        "description":"Latest smartphones",
+        "stock":30
+
+    },
+    {
+        "name":"Gown",
+        "price": 2500,
+        "image":"/image/dress11.jpg",
+        "description":"Latest Model",
+        "stock":30
+
+    },
+    {
+        "name" :"Smart top",
+        "price":5000,
+        "image":"/image/dress12.jpg",
+        "description":"Latest Model",
+        "stock":30
+    },
+    {
+        "name":"Floral",
+        "price": 2500,
+        "image":"/image/dress13.jpg",
+        "description":"Latest Model",
+        "stock":30
+
+    },
+    {
+        "name" :"Flow",
+        "price":5000,
+        "image":"/image/dress14.jpg",
+        "description":"Latest Model",
+        "stock":30
+    },
+    {
+        "name":"Bluey",
+        "price": 2500,
+        "image":"/image/dress15.jpg",
+        "description":"Latest Model",
+        "stock":30
+
+    },
+    {
+        "name" :"Reddy",
+        "price":5000,
+        "image":"/image/dress16.jpg",
+        "description":"Latest Model",
+        "stock":30
+    }
+
+]
